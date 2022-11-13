@@ -1,0 +1,94 @@
+https://tonyspiro.com/building-a-simple-react-application-using-the-flux-pattern/
+https://www.codeproject.com/Articles/1179395/A-Simple-React-Flux-Example-Using-ES
+
+uda site deka ballana kalaa .
+
+
+mulin 
+https://www.codeproject.com/Articles/1179395/A-Simple-React-Flux-Example-Using-ES
+site eka
+
+ee site eke tyena eewage prject path koheda tyenne kiyala lokuwta terenne nah 
+so eeke github link ekath balaagena development karanna
+https://github.com/muddassirm/simple-reactflux-app
+
+me site eke tyenne root eke 
+App.jsx
+kiyala file ekak gana 
+but ehema ekk nah 
+src eke nm App.js kiyala file ekk tyenwa 
+
+eeka 
+App.jsx		kiyala rename karamu balann 
+
+naha nah 
+eeka ehemama thiyamu
+
+root eke hadamu 
+App.jsx
+kiala file ekak
+
+dan src folder eke tyena index.js eke component ekka ta ape 
+App.jsx eka set karamu
+
+
+websie eke app.jsx nisa case wage
+
+e nisa ee github file eka download karala run karala balamu mulin
+
+ee paara wada kala
+
+anyway meeka terum gamu
+
+[ mama hithanne jsx js walata convert karanne 
+npm install babelify // babel compiler
+kiyana eken 
+
+me project eke dev dependancy baluwama terune 
+
+ "devDependencies": {
+    "babel-core": "^6.23.1",
+    "babel-loader": "^6.4.1",
+    "babel-preset-es2015": "^6.24.0",
+    "babel-preset-react": "^6.23.0"
+  }
+
+
+meka atha hArala ilaga ekata giya
+
+https://tonyspiro.com/building-a-simple-react-application-using-the-flux-pattern/
+
+hari giye naha eekath 
+
+
+api mehema karamu
+wena ekk balamu
+
+
+https://codeburst.io/reactjs-for-noobs-ii-flux-5355adb33dad
+meka hodai wage
+
+npm install --save flux
+gahuwama error ekk awa
+
+npm ERR! peer react@"^15.0.2 || ^16.0.0 || ^17.0.0" from flux@4.0.3
+
+npm ERR! node_modules/flux
+npm ERR!   flux@"*" from the root project
+
+me wage 
+eka google kala
+
+npm install  flux --force			gahuwa 
+hari giya
+
+
+hari wade iwarai 
+https://www.geeksforgeeks.org/what-are-the-differences-between-redux-and-flux-in-reactjs/ 
+mekath kiyawanna 
+
+
+
+
+
+
