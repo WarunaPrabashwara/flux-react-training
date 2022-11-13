@@ -1,3 +1,6 @@
+redux saha flux dekama store ekkak maintain karanwa
+eyala hariyata react app eke temporary database ekak widihata th kriya karanawa kiwoth I am correct
+
 https://tonyspiro.com/building-a-simple-react-application-using-the-flux-pattern/
 https://www.codeproject.com/Articles/1179395/A-Simple-React-Flux-Example-Using-ES
 
